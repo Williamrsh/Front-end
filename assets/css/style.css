@@ -8,26 +8,27 @@ header{
     text-align: center;
     background-color: #009edb;
     color: #ffffff;
-    padding: 100px;
+    padding: 70px;
 }
-
 .container{
     display: flex;
     flex-flow: row;
     justify-content: center;
-    align-items: center; 
+    align-items: center
+     
 }
 .container1{
     display: flex;
     flex-flow: row;
     justify-content: center;
+  
 }
 /* imagem */
 img{    
-    width: 50%;
+    width: 25%;
 }
 #menu {
-    font-size: 70px;
+    font-size: 50px;
     text-align: center;
     padding: 50px;
     display:inline;
@@ -40,7 +41,7 @@ img{
     color:firebrick;
 }
 .texto{
-    font-size: 30px;
+    font-size: 15px;
     padding: 2px;
     text-align: center;
 }
